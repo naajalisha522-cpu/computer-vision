@@ -45,4 +45,4 @@ An MP4 video showing the original video with detected human body keypoints and s
 - Human movement analysis.
 
 ## Author
-[Your Name]
+[Alisha naaj]
