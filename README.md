@@ -36,7 +36,8 @@ pip install ultralytics opencv-python numpy
 An MP4 video containing one or more people.
 
 ## Output
-An MP4 video showing the original video with detected human body keypoints and skeleton connections.
+An MP4 video showing the original video with detected human body keypoints and skeletoconnections.
+https://drive.google.com/drive/folders/1f8Aab5QH4POkAFyXk0DJlODuMZ1qafiK?usp=sharing
 
 ## Applications
 - Human activity recognition.
